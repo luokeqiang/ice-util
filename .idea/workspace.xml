@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e801b04-5410-41fb-8c7e-692aa76ba145" name="Changes" comment="" />
+    <list default="true" id="5e801b04-5410-41fb-8c7e-692aa76ba145" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ice-util-core/src/main/java/org/luoke/ice/util/core/lang/MathUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ice-util-core/src/main/java/org/luoke/ice/util/core/map/MapUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ice-util-core/src/test/java/org/luoke/ice/util/core/lang/MathUtilTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,11 +17,14 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -36,6 +43,7 @@
     </option>
   </component>
   <component name="ProjectId" id="29vGsPaWkBb3PRwbGOXGA4pxmgi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -45,6 +53,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.3605948" />
@@ -61,22 +70,7 @@
       <recent name="org.luoke.ice.util.core.date" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.DateUtilTest.parseDate">
-    <configuration name="DateUtilTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ice-util-core" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.luoke.ice.util.core.date.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.luoke.ice.util.core.date" />
-      <option name="MAIN_CLASS_NAME" value="org.luoke.ice.util.core.date.DateUtilTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.MathUtilTest.mid">
     <configuration name="DateUtilTest.parseDate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ice-util-core" />
       <extension name="coverage">
@@ -141,13 +135,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MathUtilTest.mid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ice-util-core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.luoke.ice.util.core.lang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.luoke.ice.util.core.lang" />
+      <option name="MAIN_CLASS_NAME" value="org.luoke.ice.util.core.lang.MathUtilTest" />
+      <option name="METHOD_NAME" value="mid" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MathUtilTest.mid" />
         <item itemvalue="JUnit.DateUtilTest.parseDate" />
         <item itemvalue="JUnit.DateUtilTest.parseLocalTime" />
         <item itemvalue="JUnit.DateUtilTest.parseLocalDateTime" />
         <item itemvalue="JUnit.DateUtilTest.parseLocalDate" />
-        <item itemvalue="JUnit.DateUtilTest" />
       </list>
     </recent_temporary>
   </component>
@@ -161,10 +171,26 @@
       <updated>1653986355897</updated>
       <workItem from="1653986357470" duration="6127000" />
       <workItem from="1654043004301" duration="5667000" />
+      <workItem from="1654076032891" duration="1503000" />
+      <workItem from="1654131298717" duration="1723000" />
+      <workItem from="1656035947065" duration="909000" />
+      <workItem from="1656402047424" duration="709000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
