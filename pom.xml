@@ -41,7 +41,7 @@
                 <configuration>
                     <source>${maven.compiler.source}</source>
                     <target>${maven.compiler.target}</target>
-                    <encoding>${project.encoding</encoding>
+                    <encoding>${project.encoding}</encoding>
                 </configuration>
             </plugin>
         </plugins>
