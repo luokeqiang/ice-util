@@ -11,6 +11,7 @@
     <modules>
         <module>ice-util-core</module>
         <module>ice-util-web</module>
+        <module>ice-util-common</module>
     </modules>
 
     <properties>

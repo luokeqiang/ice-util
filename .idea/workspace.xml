@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e801b04-5410-41fb-8c7e-692aa76ba145" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ice-util-core/src/main/java/org/luoke/ice/util/core/lang/MathUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ice-util-core/src/main/java/org/luoke/ice/util/core/map/MapUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ice-util-core/src/test/java/org/luoke/ice/util/core/lang/MathUtilTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ice-util-core/src/main/java/org/luoke/ice/util/core/collection/CollectionUtil.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +16,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -67,6 +65,7 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.luoke.ice.util.core.lang" />
       <recent name="org.luoke.ice.util.core.date" />
     </key>
   </component>
@@ -174,7 +173,11 @@
       <workItem from="1654076032891" duration="1503000" />
       <workItem from="1654131298717" duration="1723000" />
       <workItem from="1656035947065" duration="909000" />
-      <workItem from="1656402047424" duration="709000" />
+      <workItem from="1656402047424" duration="1259000" />
+      <workItem from="1656577298784" duration="977000" />
+      <workItem from="1656926120960" duration="325000" />
+      <workItem from="1656980448209" duration="1057000" />
+      <workItem from="1657591805513" duration="321000" />
     </task>
     <servers />
   </component>
